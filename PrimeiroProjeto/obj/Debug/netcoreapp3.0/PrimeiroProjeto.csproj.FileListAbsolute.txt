@@ -1,0 +1,11 @@
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.exe
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.deps.json
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.dll
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.pdb
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.dll
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.pdb
+C:\Users\isabela.padilha\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.csprojAssemblyReference.cache
